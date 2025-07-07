@@ -1,11 +1,9 @@
 
 
 ```markdown
-
 # 🧠 TheQuizApp
 
-A fully functional Quiz App built using MVVM architecture, Retrofit, and a MySQL backend.
- This app dynamically fetches quiz questions from a remote server, displays them one-by-one, and shows the final result based on user answers.
+A fully functional **Quiz App** built using **MVVM architecture**, **Retrofit**, and a **MySQL backend**. This app dynamically fetches quiz questions from a remote server, displays them one-by-one, and shows the final result based on user answers.
 
 ## 🚀 Features
 
@@ -17,6 +15,9 @@ A fully functional Quiz App built using MVVM architecture, Retrofit, and a MySQL
 - 🔐 Secure API integration
 - 🌐 Uses GSON for JSON parsing and model generation
 
+## 📸 Screenshots
+
+*(Add your screenshots here if available)*
 
 ## 🛠️ Tech Stack
 
@@ -41,6 +42,8 @@ A fully functional Quiz App built using MVVM architecture, Retrofit, and a MySQL
 
 ## 📂 Project Structure
 
+```
+
 TheQuizApp/
 │
 ├── api/                # Retrofit API interface & instance
@@ -50,13 +53,14 @@ TheQuizApp/
 ├── view/               # MainActivity and layouts
 └── utils/              # Constants, helpers
 
+````
 
 ## 📥 Getting Started
 
 1. Clone the repo  
-
+   ```bash
    git clone https://github.com/surajpsk12/TheQuizApp.git
-
+````
 
 2. Open in Android Studio
 
@@ -93,9 +97,8 @@ Made with 💙 by [Suraj Kumar](https://www.linkedin.com/in/surajpsk12)
 📬 Have suggestions or want to collaborate?
 Reach out via LinkedIn or open an issue!
 
-
-
-
+---
 
 ```
 
+```
