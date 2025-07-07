@@ -15,9 +15,6 @@ A fully functional **Quiz App** built using **MVVM architecture**, **Retrofit**,
 - 🔐 Secure API integration
 - 🌐 Uses GSON for JSON parsing and model generation
 
-## 📸 Screenshots
-
-*(Add your screenshots here if available)*
 
 ## 🛠️ Tech Stack
 
@@ -43,7 +40,7 @@ A fully functional **Quiz App** built using **MVVM architecture**, **Retrofit**,
 ## 📂 Project Structure
 
 ```
-
+```
 TheQuizApp/
 │
 ├── api/                # Retrofit API interface & instance
@@ -52,15 +49,15 @@ TheQuizApp/
 ├── viewmodel/          # ViewModel class
 ├── view/               # MainActivity and layouts
 └── utils/              # Constants, helpers
+```
 
-````
 
 ## 📥 Getting Started
-
+````
 1. Clone the repo  
    ```bash
    git clone https://github.com/surajpsk12/TheQuizApp.git
-````
+
 
 2. Open in Android Studio
 
@@ -69,6 +66,7 @@ TheQuizApp/
 4. Add your API base URL and security config if needed.
 
 5. Run on emulator or device.
+````
 
 ## 📦 Requirements
 
@@ -97,8 +95,4 @@ Made with 💙 by [Suraj Kumar](https://www.linkedin.com/in/surajpsk12)
 📬 Have suggestions or want to collaborate?
 Reach out via LinkedIn or open an issue!
 
----
 
-```
-
-```
